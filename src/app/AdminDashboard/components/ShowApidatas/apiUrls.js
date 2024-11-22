@@ -1,7 +1,7 @@
 // apiUrls.js
 
-// export const url = "https://encoderbytes.com";
-export const url = "http://localhost:3000";
+export const url = "https://eb-deploy-chk.vercel.app";
+// export const url = "http://localhost:3001";
 
 export const API_URL_USER = `${url}/api/Users`;
 export const API_URL_Verify = `${url}/api/Users/verifyEmail`;
